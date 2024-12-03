@@ -25,6 +25,7 @@ body {
   flex: 1;
   max-width: 250px;
   border-right: 1px solid #38444d;
+  height: 100vh;
 }
 
 .sidebar .nav-item, .tweet-item, .logo-item{
@@ -182,6 +183,7 @@ body {
   flex: 1;
   max-width: 250px;
   border-left: 1px solid #38444d;
+  height: 100vh;
 }
 
 .trends .search-bar{
